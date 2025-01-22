@@ -18,6 +18,6 @@ available data sets, task automation, and creating online interactive dashboards
 
 
 
-![alt text] (https://github.com/alipirhadits/Alipirhadi/blob/5e54bf48b920d2f6473d8d0288870f841101fea6/1000.jpg)
+![] (https://github.com/alipirhadits/Alipirhadi/blob/5e54bf48b920d2f6473d8d0288870f841101fea6/1000.jpg)
 
 
