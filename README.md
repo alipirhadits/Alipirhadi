@@ -2,7 +2,7 @@
 
 This is the Data Science and Statistical Programming Applied to Agriculture course taught by Dr. Bastos in the spring of 2025.
 
-#Course learning outcomes
+# Course learning outcomes
 The general course objective is to provide students with hands-on applied experience in analyzing
 agricultural data using modern reproducible tools. That involves: - Learning and applying analytical
 workflows that involve importing data, processing, analyzing, assessing model fit, extracting model
@@ -18,6 +18,6 @@ available data sets, task automation, and creating online interactive dashboards
 
 
 
-![] (https://github.com/alipirhadits/Alipirhadi/blob/5e54bf48b920d2f6473d8d0288870f841101fea6/1000.jpg)
+![](https://github.com/alipirhadits/Alipirhadi/blob/5e54bf48b920d2f6473d8d0288870f841101fea6/1000.jpg).
 
 
